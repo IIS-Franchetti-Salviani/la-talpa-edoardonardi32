@@ -1,0 +1,24 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package whac.a.mole;
+
+/**
+ *
+ * @author nardi.edoardo
+ */
+public class Buca {
+    private String id;
+    private boolean occupata;
+    
+    public void MostraLaTalpa(Talpa t){
+        
+    }
+    public void NascondiLaTalpa(){
+        
+    }
+    public void Colpisci(){
+        
+    }
+}
